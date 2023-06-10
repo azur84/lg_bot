@@ -1,0 +1,14 @@
+{
+  "name": "lg_bot",
+  "version": "0.1.0",
+  "description": "a discord bot for LG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": "azur84",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
